@@ -62,7 +62,3 @@ body{
   opacity: 1;
  
 }
-
-.hover{
-    transform: perspective(600px) rotateY(0deg);
-}
